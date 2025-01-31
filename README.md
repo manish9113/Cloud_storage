@@ -32,7 +32,7 @@ A **cloud-based image storage application** that allows users to upload images, 
 
 ### 1️⃣ Clone the Repository  
 
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/manish9113/Cloud_storage.git
 
 cd repo-name
 
